@@ -1,0 +1,7 @@
+https://www.infrastructure.aws/
+
+http://www.cloudping.info/
+
+https://docs.aws.amazon.com/
+
+https://aws.amazon.com/getting-started/use-cases/
