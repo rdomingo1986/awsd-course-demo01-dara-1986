@@ -5,3 +5,5 @@ http://www.cloudping.info/
 https://docs.aws.amazon.com/
 
 https://aws.amazon.com/getting-started/use-cases/
+
+https://amazon.qwiklabs.com/
