@@ -6,6 +6,8 @@ https://docs.aws.amazon.com/
 
 https://docs.aws.amazon.com/general/latest/gr/Welcome.html
 
+https://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/getting-started.html
+
 https://aws.amazon.com/getting-started/use-cases/
 
 https://amazon.qwiklabs.com/
